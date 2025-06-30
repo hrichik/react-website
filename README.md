@@ -1,3 +1,8 @@
+#Purpose:
+The purpose of this project is to get comfortable with React and its components.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
