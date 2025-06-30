@@ -1,4 +1,4 @@
-#Purpose:
+# Purpose:
 The purpose of this project is to get comfortable with React and its components.
 
 
